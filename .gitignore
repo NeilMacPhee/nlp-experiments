@@ -128,6 +128,7 @@ ENV/
 env.bak/
 venv.bak/
 myenv/
+notebooks/chapter-3/test-trainer
 
 # Spyder project settings
 .spyderproject
